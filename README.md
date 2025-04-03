@@ -1,2 +1,11 @@
-Hello!
-My name is Aleksandr Heinlaid, I am Data Analyst with an engineering background in the nuclear and construction sectors. I've got a practical experience utilizing popular Python libraries such as Pandas, NumPy, Seaborn, Matplotlib, and Scikit-learn, etc. In my previous experience, I have developed a strong background in the piping design and thermal calculations, demonstrating proficiency in utilizing tools such as AutoCAD, MagiCAD, SmartPlant, and other BIM technologies. Additionally, I have extensive experience performing calculations using programs like IDA ICE. I hold a degree in Nuclear Engineering from Peter the Great St. Petersburg Polytechnic University, where I earned an honors degree. Throughout my education, I acquired in-depth knowledge of crucial theoretical foundations, including nuclear reactor physics, thermal hydraulics, physical statistics, and mathematics.
+**Hello!**  
+I'm **Aleksandr Heinlaid**, a **Data Analyst and IT Analyst** with a strong background in **systems analysis**, focusing on **business automation** and **IT solutions** (particularly in the energy sector). I enjoy leveraging data-driven insights to optimize processes and improve decision-making. Alongside my analyst roles, I also **develop Chrome extensions** to tackle real-world problems and enhance user productivity.
+
+### Key Highlights
+- Extensive experience in **systems analysis**, ensuring end-to-end alignment of solutions and processes  
+- Skilled at **automating workflows** and implementing **business intelligence** tools  
+- Passionate about **innovation in the energy domain** and beyond  
+- Enjoy building and maintaining **browser extensions** for streamlined productivity
+
+### Let’s Connect
+I’m always interested in new opportunities, collaborations, and discussions around **data**, **automation**, and **software development**. Feel free to reach out if you’d like to work together or just want to chat about tech.
