@@ -16,3 +16,5 @@ I’m always interested in new opportunities, collaborations, and discussions ar
 >✏️ [Draw On Screen](https://chromewebstore.google.com/detail/draw-on-screen/hjafaofnkfblcpkppadbneegaepffjfd) – instantly annotate any webpage
 >
 >📂 [Open Excel](https://chromewebstore.google.com/detail/open-excel/iocnoabndkjippckmjbglgdecdldcnjb) – open Excel files directly in Chrome
+>
+>🕒 [ChatGPT Timestamp](https://chromewebstore.google.com/detail/chatgpt-timestamp/lnaooepnheojbgfeannakjciclekgpai) – adds local date and time stamps to every ChatGPT message
